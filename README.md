@@ -9,7 +9,7 @@ The project will include the following tasks:
 ### 1.Database Creation
 a) Create a database to store the sales data (Redshift or PostgreSQL).
 
-b)Create a table named "sales_sample" with the specified columns:
+b) Create a table named "sales_sample" with the specified columns:
   - Product_Id (Integer)
   
   - Region (varchar(50))-like East ,West etc
